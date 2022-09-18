@@ -10,7 +10,7 @@ approved in its selection process. The so-called "C Piscine", a 26-day C program
 is the last stage in the selection process for becoming a "cadet" (42's student).
 Photo of a 42lisboa's lab
 
-[Escola42.mp4]
+[Escola42.mp4][****](https://www.42lisboa.com/em-lisboa/)
 
 Skills developed at C Piscine
 Hard-skills
