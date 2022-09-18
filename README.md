@@ -12,6 +12,7 @@ Photo of a 42lisboa's lab
 
 [(https://www.42lisboa.com/wp-content/uploads/2021/02/20201026-42-Lisboa-5-scaled.jpg)]
 
+
 Skills developed at C Piscine
 Hard-skills
 # C Language
